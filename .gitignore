@@ -1,11 +1,18 @@
-core.Microsoft*
-core.mongo*
-core.python*
-env.py
+# Ignore Python virtual environments
+.venv/
+
+# Ignore compiled Python files
 __pycache__/
 *.py[cod]
-node_modules/
-.github/
-cloudinary_python.txt
-kaggle.json
-.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings (optional, but common)
+.vscode/
+
+# Ignore environment variables or config files (if you use them)
+.env
+
+# Ignore macOS system files
+.DS_Store
