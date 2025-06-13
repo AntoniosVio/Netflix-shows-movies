@@ -1,0 +1,7 @@
+2025-06-13 14:30:24,930 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:30:24,971 - INFO - Extracted 8807 rows
+2025-06-13 14:30:24,972 - INFO - Starting transformation
+2025-06-13 14:30:24,983 - INFO - Transformation complete
+2025-06-13 14:30:24,985 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:30:25,045 - INFO - Loading complete
+2025-06-13 14:30:25,046 - INFO - ETL process completed successfully!
