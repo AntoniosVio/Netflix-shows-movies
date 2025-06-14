@@ -35,3 +35,4 @@ This project explores and analyses a dataset of Netflix Movies and TV Shows. It 
 - **United States** leads as the top content-producing country.
 - The most common genres include **Dramas**, **International Movies**, and **Comedies**.
 - A significant increase in Netflix content additions was observed between **2015 and 2020**.
+
