@@ -70,3 +70,6 @@ Key visualizations included:
 Throughout the project, managing missing and inconsistent data was a significant challenge. Handling multi-valued categorical fields required careful parsing and transformation to allow meaningful analysis. Additionally, balancing detail and clarity in visualizations took iterative refinement.
 
 This project reinforced the importance of thorough data cleaning and the value of exploratory visualizations in uncovering insights. It also provided practical experience working with real-world messy datasets and applying Python libraries to analyze and present data effectively.
+
+
+
