@@ -5,3 +5,179 @@
 2025-06-13 14:30:24,985 - INFO - Starting loading data to netflix_cleaned.csv
 2025-06-13 14:30:25,045 - INFO - Loading complete
 2025-06-13 14:30:25,046 - INFO - ETL process completed successfully!
+2025-06-13 14:31:35,234 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:31:35,272 - INFO - Extracted 8807 rows
+2025-06-13 14:31:35,272 - INFO - Starting transformation
+2025-06-13 14:31:35,283 - INFO - Transformation complete
+2025-06-13 14:31:35,284 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:31:35,343 - INFO - Loading complete
+2025-06-13 14:31:35,344 - INFO - ETL process completed successfully!
+2025-06-13 14:39:54,847 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:39:54,883 - INFO - Extracted 8807 rows
+2025-06-13 14:39:54,883 - INFO - Starting transformation
+2025-06-13 14:39:54,894 - INFO - Transformation complete
+2025-06-13 14:39:54,895 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:39:54,954 - INFO - Loading complete
+2025-06-13 14:39:54,955 - INFO - ETL process completed successfully!
+2025-06-13 14:40:46,063 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:40:46,099 - INFO - Extracted 8807 rows
+2025-06-13 14:40:46,099 - INFO - Starting transformation
+2025-06-13 14:40:46,161 - INFO - Transformation complete
+2025-06-13 14:40:46,163 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:40:46,228 - INFO - Loading complete
+2025-06-13 14:40:46,230 - INFO - ETL process completed successfully!
+2025-06-13 14:42:04,785 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:42:04,821 - INFO - Extracted 8807 rows
+2025-06-13 14:42:04,822 - INFO - Starting transformation
+2025-06-13 14:42:04,832 - INFO - Transformation complete
+2025-06-13 14:42:04,834 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:42:04,893 - INFO - Loading complete
+2025-06-13 14:42:04,893 - INFO - ETL process completed successfully!
+2025-06-13 14:42:45,249 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:42:45,284 - INFO - Extracted 8807 rows
+2025-06-13 14:42:45,285 - INFO - Starting transformation
+2025-06-13 14:42:45,295 - INFO - Transformation complete
+2025-06-13 14:42:45,298 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:42:45,356 - INFO - Loading complete
+2025-06-13 14:42:45,357 - INFO - ETL process completed successfully!
+2025-06-13 14:45:03,783 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:45:03,816 - INFO - Extracted 8807 rows
+2025-06-13 14:45:03,816 - INFO - Starting transformation
+2025-06-13 14:45:03,827 - INFO - Transformation complete
+2025-06-13 14:45:03,829 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:45:03,889 - INFO - Loading complete
+2025-06-13 14:45:03,890 - INFO - ETL process completed successfully!
+2025-06-13 14:45:24,423 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:45:24,457 - INFO - Extracted 8807 rows
+2025-06-13 14:45:24,458 - INFO - Starting transformation
+2025-06-13 14:45:24,469 - INFO - Transformation complete
+2025-06-13 14:45:24,471 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:45:24,532 - INFO - Loading complete
+2025-06-13 14:45:24,532 - INFO - ETL process completed successfully!
+2025-06-13 14:48:03,853 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:48:03,888 - INFO - Extracted 8807 rows
+2025-06-13 14:48:03,888 - INFO - Starting transformation
+2025-06-13 14:48:03,899 - INFO - Transformation complete
+2025-06-13 14:48:03,902 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:48:03,962 - INFO - Loading complete
+2025-06-13 14:48:03,963 - INFO - ETL process completed successfully!
+2025-06-13 14:50:02,051 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:50:02,086 - INFO - Extracted 8807 rows
+2025-06-13 14:50:02,087 - INFO - Starting transformation
+2025-06-13 14:50:02,099 - INFO - Transformation complete
+2025-06-13 14:50:02,101 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:50:02,162 - INFO - Loading complete
+2025-06-13 14:50:02,163 - INFO - ETL process completed successfully!
+2025-06-13 14:52:00,320 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:52:00,355 - INFO - Extracted 8807 rows
+2025-06-13 14:52:00,355 - INFO - Starting transformation
+2025-06-13 14:52:00,366 - INFO - Transformation complete
+2025-06-13 14:52:00,368 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:52:00,427 - INFO - Loading complete
+2025-06-13 14:52:00,428 - INFO - ETL process completed successfully!
+2025-06-13 14:53:06,098 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:53:06,132 - INFO - Extracted 8807 rows
+2025-06-13 14:53:06,133 - INFO - Starting transformation
+2025-06-13 14:53:06,144 - INFO - Transformation complete
+2025-06-13 14:53:06,146 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:53:06,202 - INFO - Loading complete
+2025-06-13 14:53:06,203 - INFO - ETL process completed successfully!
+2025-06-13 14:53:23,341 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:53:23,376 - INFO - Extracted 8807 rows
+2025-06-13 14:53:23,376 - INFO - Starting transformation
+2025-06-13 14:53:23,387 - INFO - Transformation complete
+2025-06-13 14:53:23,390 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:53:23,450 - INFO - Loading complete
+2025-06-13 14:53:23,451 - INFO - ETL process completed successfully!
+2025-06-13 14:53:36,486 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:53:36,520 - INFO - Extracted 8807 rows
+2025-06-13 14:53:36,521 - INFO - Starting transformation
+2025-06-13 14:53:36,532 - INFO - Transformation complete
+2025-06-13 14:53:36,534 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:53:36,594 - INFO - Loading complete
+2025-06-13 14:53:36,594 - INFO - ETL process completed successfully!
+2025-06-13 14:54:25,795 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:54:25,829 - INFO - Extracted 8807 rows
+2025-06-13 14:54:25,830 - INFO - Starting transformation
+2025-06-13 14:54:25,841 - INFO - Transformation complete
+2025-06-13 14:54:25,843 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:54:25,901 - INFO - Loading complete
+2025-06-13 14:54:25,901 - INFO - ETL process completed successfully!
+2025-06-13 14:55:42,881 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 14:55:42,915 - INFO - Extracted 8807 rows
+2025-06-13 14:55:42,916 - INFO - Starting transformation
+2025-06-13 14:55:42,926 - INFO - Transformation complete
+2025-06-13 14:55:42,928 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 14:55:42,987 - INFO - Loading complete
+2025-06-13 14:55:42,988 - INFO - ETL process completed successfully!
+2025-06-13 15:00:06,247 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:00:06,286 - INFO - Extracted 8807 rows
+2025-06-13 15:00:06,287 - INFO - Starting transformation
+2025-06-13 15:00:06,299 - INFO - Transformation complete
+2025-06-13 15:00:06,301 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:00:06,358 - INFO - Loading complete
+2025-06-13 15:00:06,358 - INFO - ETL process completed successfully!
+2025-06-13 15:00:07,104 - INFO - generated new fontManager
+2025-06-13 15:05:28,379 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:05:28,415 - INFO - Extracted 8807 rows
+2025-06-13 15:05:28,416 - INFO - Starting transformation
+2025-06-13 15:05:28,426 - INFO - Transformation complete
+2025-06-13 15:05:28,428 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:05:28,482 - INFO - Loading complete
+2025-06-13 15:05:28,483 - INFO - ETL process completed successfully!
+2025-06-13 15:06:20,766 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:06:20,799 - INFO - Extracted 8807 rows
+2025-06-13 15:06:20,799 - INFO - Starting transformation
+2025-06-13 15:06:20,810 - INFO - Transformation complete
+2025-06-13 15:06:20,812 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:06:20,864 - INFO - Loading complete
+2025-06-13 15:06:20,865 - INFO - ETL process completed successfully!
+2025-06-13 15:07:47,210 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:07:47,246 - INFO - Extracted 8807 rows
+2025-06-13 15:07:47,246 - INFO - Starting transformation
+2025-06-13 15:07:47,257 - INFO - Transformation complete
+2025-06-13 15:07:47,259 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:07:47,311 - INFO - Loading complete
+2025-06-13 15:07:47,312 - INFO - ETL process completed successfully!
+2025-06-13 15:08:10,214 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:08:10,250 - INFO - Extracted 8807 rows
+2025-06-13 15:08:10,251 - INFO - Starting transformation
+2025-06-13 15:08:10,260 - INFO - Transformation complete
+2025-06-13 15:08:10,262 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:08:10,318 - INFO - Loading complete
+2025-06-13 15:08:10,319 - INFO - ETL process completed successfully!
+2025-06-13 15:10:54,871 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:10:54,906 - INFO - Extracted 8807 rows
+2025-06-13 15:10:54,907 - INFO - Starting transformation
+2025-06-13 15:10:54,919 - INFO - Transformation complete
+2025-06-13 15:10:54,921 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:10:54,977 - INFO - Loading complete
+2025-06-13 15:10:54,977 - INFO - ETL process completed successfully!
+2025-06-13 15:12:11,713 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:12:11,747 - INFO - Extracted 8807 rows
+2025-06-13 15:12:11,748 - INFO - Starting transformation
+2025-06-13 15:12:11,759 - INFO - Transformation complete
+2025-06-13 15:12:11,761 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:12:11,816 - INFO - Loading complete
+2025-06-13 15:12:11,817 - INFO - ETL process completed successfully!
+2025-06-13 15:14:18,222 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:14:18,256 - INFO - Extracted 8807 rows
+2025-06-13 15:14:18,256 - INFO - Starting transformation
+2025-06-13 15:14:18,267 - INFO - Transformation complete
+2025-06-13 15:14:18,269 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:14:18,325 - INFO - Loading complete
+2025-06-13 15:14:18,325 - INFO - ETL process completed successfully!
+2025-06-13 15:17:49,282 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:17:49,317 - INFO - Extracted 8807 rows
+2025-06-13 15:17:49,318 - INFO - Starting transformation
+2025-06-13 15:17:49,329 - INFO - Transformation complete
+2025-06-13 15:17:49,331 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:17:49,388 - INFO - Loading complete
+2025-06-13 15:17:49,388 - INFO - ETL process completed successfully!
+2025-06-13 15:18:36,607 - INFO - Starting extraction from C:\Users\jmcde\OneDrive\Desktop\vscode-projects\Netflix-shows-movies\netflix_titles.csv
+2025-06-13 15:18:36,641 - INFO - Extracted 8807 rows
+2025-06-13 15:18:36,641 - INFO - Starting transformation
+2025-06-13 15:18:36,653 - INFO - Transformation complete
+2025-06-13 15:18:36,655 - INFO - Starting loading data to netflix_cleaned.csv
+2025-06-13 15:18:36,711 - INFO - Loading complete
+2025-06-13 15:18:36,712 - INFO - ETL process completed successfully!
